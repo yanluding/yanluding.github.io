@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2015-2019: Ph.D in Geotechnical Engineering, The University of Hong Kong
+* 2015-2019: Ph.D. in Geotechnical Engineering, The University of Hong Kong
 * 2012-2015: Master/PhD student in Mining Engineering, China University of Mining and Technology
 * 2008-2012: B.S. in Mining Engineering, China University of Mining and Technology
 

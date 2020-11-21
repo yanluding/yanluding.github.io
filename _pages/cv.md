@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2008-2012: B.S. in Xuzhou, China, China University of Mining and Technology
-* 2015-2019: Ph.D in Hong Kong, China, The University of Hong Kong
+* 2015-2019: Ph.D. in Hong Kong, China, The University of Hong Kong
 
 Work experience
 ======
